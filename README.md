@@ -3,9 +3,9 @@
 ![](https://img.shields.io/github/license/ulasonat/relevance-feedback-search-engine?color=red&logo=red&style=flat-square)
 
 A powerful information extraction tool that harnesses the Iterative Set Expansion (ISE) algorithm to mine structured data from web sources. This project aims to extract structured relations between entities found on web pages. The program retrieves the top ten Google search results for a given query, extracts the text from each of them, identifies the named entities using spaCy, and applies a pre-trained SpanBERT or GPT-3 model to extract relations between them.
-## Collaborators <br>
-Ulas Onat Alakent </br>
-Lara Karacasu
+## Contributors <br>
+- Ulas Alakent
+- Lara Karacasu
 
 ## Install dependencies:
 ```
